@@ -13,7 +13,7 @@ Transform a 48x48 pixel image (more editable format) into all the 17 textures ne
 
 # Color Proximity
 
-Generates a spreadsheet with the proximity between block colors
+Generates a spreadsheet with the proximity between block colors (the smaller the number, more similar the textures are)
 
 ![Demonstration](https://i.imgur.com/4xzfFf7.png)
 
