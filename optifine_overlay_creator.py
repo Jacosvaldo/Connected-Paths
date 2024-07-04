@@ -37,7 +37,7 @@ for filename in uploaded.keys():
     os.rename(filename, 'input.png')
 
     # Display confirmation message
-    print(f'Arquivo renomeado para "input.png".')
+    print(f'Archive renamed to "input.png".')
 
 """# Download
 
